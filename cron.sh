@@ -1,0 +1,1 @@
+wget -O /dev/null https://society.lt/cron.php 2<&1 dev/null
